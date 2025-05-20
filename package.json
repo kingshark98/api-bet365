@@ -1,0 +1,13 @@
+{
+  "name": "api-bet365",
+  "version": "1.0.0",
+  "description": "API Node.js conectada à Bet365",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^4.18.2"
+  }
+}
